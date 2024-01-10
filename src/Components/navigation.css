@@ -1,0 +1,16 @@
+nav{
+    margin: 0 10px;
+    height: 72px;
+  }
+  .logo{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav ul{
+    display: flex;
+    list-style-type: none;
+    gap: 24px;
+    font-weight: 500;
+  }
